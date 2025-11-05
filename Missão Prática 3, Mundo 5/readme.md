@@ -7,7 +7,7 @@ Este projeto é focado na manipulação e tratamento de dados com a biblioteca *
 
    vide descrição no arquivo **missao pratica.pdf**
 
-   <img src="missao/images/doc_missao_pratica.png" alt="documento mp pdf" width="500"/>
+   <img src="missao/imagens/doc_missao_pratica.png" alt="documento mp pdf" width="500"/>
 
 ## Requisitos
 
@@ -51,7 +51,7 @@ Antes de executar o projeto, é necessário garantir que as dependências esteja
      
     - Cada tarefa da missão prtatica foi isolada em um arquivo chamada 'mp1.py' e assim sucessivamente para que pudessem ser executados separadamente e seu conteudo pudesse ser analisado.
 
-    <img src="/missao/images/scripts mp.png" alt="estrutura de scripts" width="500"/>
+    <img src="/missao/imagens/scripts mp.png" alt="estrutura de scripts" width="500"/>
  
 ## Executando o Projeto
 
